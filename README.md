@@ -1,4 +1,4 @@
-# Plantilla TFG [Archived]
+# Plantilla TFG
 
 Plantilla en *LaTeX* para el **Trabajo de Fin de Grado** (EPS-UAM). Contiene la estructura básica para la memoria del mismo, siguiendo la [normativa del curso 2015-2016](2015-2016/).
 
